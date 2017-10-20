@@ -10,7 +10,7 @@ class AddAllCollection{
   al2.add("Sonoo");  
   al2.add("Hanumat");  
    al.add("Vijay");  
-  al.add("Ajay");  
+ 
   
   al.addAll(al2);//adding second list in first list  
   Iterator itr=al.iterator();  
